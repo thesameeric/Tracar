@@ -1,5 +1,0 @@
-class sensor {
-    const constructor = ()=> {
-        
-    }
-}
