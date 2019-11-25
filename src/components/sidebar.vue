@@ -26,10 +26,11 @@
     width: 100%;
 }
 .sidebar{
-    position: fixed;
+    position: relative;
     top: 0; left: 0;
     border-right: 1px solid #f5f5f5;
     width: 60px;
+    overflow: hidden;
     background: #FFF;
     a {
         display: flex;

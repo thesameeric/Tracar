@@ -23,7 +23,6 @@ body{
   background: #f0f0f0;
   width: 100%;
   min-height: 100vh;
-  overflow-x: hidden; overflow-y: auto;
 }
 /*#DCFFEE  reset linear-gradient(80deg, #00AEFF, #3369E7);*/
 html, body, div, span, iframe,
